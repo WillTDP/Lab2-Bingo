@@ -102,3 +102,9 @@ class Bingo {
     }
   }
 }
+export default {
+  components: {
+    Bingos: Bingo
+  }
+  // ...
+}
